@@ -4,6 +4,8 @@
 
 [PL version](./README_pl.md)
 
+[E-Commerce project for labolatories](https://github.com/barszu/WDAI-ReactProject)
+
 ## 🧪 Lab 1: Mini Project - HTML5, CSS, and JavaScript Basics
 
 📅 Class Description
